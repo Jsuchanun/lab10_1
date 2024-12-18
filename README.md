@@ -1,2 +1,2 @@
-# NAME: สุ
-# STUDENT ID:
+# NAME: สุชานันท์ จิตวงพงษ์
+# STUDENT ID: 660610886
